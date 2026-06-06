@@ -1,0 +1,11 @@
+[
+  {
+    "alert": "SQL injection attempt detected"
+  },
+  {
+    "alert": "AWS API key exposed on GitHub"
+  },
+  {
+    "alert": "Open S3 bucket discovered"
+  }
+]
