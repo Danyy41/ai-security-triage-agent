@@ -7,8 +7,8 @@
   },
   {
     "alert": "Open S3 bucket discovered"
+  },
+  {
+    "alert": "Unknown vulnerability discovered"
   }
 ]
-{
-  "alert": "Unknown vulnerability discovered"
-}
